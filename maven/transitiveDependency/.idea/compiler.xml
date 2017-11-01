@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hongxing-bBrother" />
+        <module name="hongxing-nanBrother" />
+        <module name="hongxing-shanJi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hongxing-aggregation" target="1.6" />
+      <module name="hongxing-bBrother" target="1.6" />
+      <module name="hongxing-nanBrother" target="1.6" />
+      <module name="hongxing-parent" target="1.6" />
+      <module name="hongxing-shanJi" target="1.6" />
+      <module name="hongxingnan-Brother" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

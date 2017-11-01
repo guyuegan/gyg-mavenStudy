@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hongxing-aggregation/hongxing-aggregation.iml" filepath="$PROJECT_DIR$/hongxing-aggregation/hongxing-aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hongxing-bBrother/hongxing-bBrother.iml" filepath="$PROJECT_DIR$/hongxing-bBrother/hongxing-bBrother.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hongxing-nanBrother/hongxing-nanBrother.iml" filepath="$PROJECT_DIR$/hongxing-nanBrother/hongxing-nanBrother.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hongxing-parent/hongxing-parent.iml" filepath="$PROJECT_DIR$/hongxing-parent/hongxing-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hongxing-shanJi/hongxing-shanJi.iml" filepath="$PROJECT_DIR$/hongxing-shanJi/hongxing-shanJi.iml" />
+    </modules>
+  </component>
+</project>
